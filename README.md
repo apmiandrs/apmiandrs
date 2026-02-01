@@ -1,16 +1,22 @@
-## Hi there 👋
+# أهلاً بك في صفحة أبوغيم 👋
 
-<!--
-**apmiandrs/apmiandrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مهندس تقني وفني دعم | Linux | Proxmox | Python  
 
-Here are some ideas to get you started:
+## 🔧 خبرات تقنية
+- إدارة وتشغيل خوادم Linux و Windows
+- إدارة الشبكات والنسخ الاحتياطي
+- الأتمتة باستخدام Python و Bash
+- محاكيات وتجارب تقنية (Proxmox, CasaOS, BeamNG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 مهارات إضافية
+- إدارة المشاريع
+- التواصل والعروض التقديمية
+- اللغة الإنجليزية
+
+## 📂 مشاريع مميزة
+- [مشروع X](رابط المشروع) – وصف قصير
+- [مشروع Y](رابط المشروع) – وصف قصير
+
+## 📫 تواصل معي
+- الموقع الشخصي: [apmiandrs.com](https://apmiandrs.com)
+- البريد: your-email@example.com
