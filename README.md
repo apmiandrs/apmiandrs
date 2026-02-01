@@ -1,4 +1,4 @@
-# 👋 أهلاً بك في صفحة أبوغيم
+# 👋 أهلاً بك 
 
 مهندس تقني وفني دعم | Linux | Proxmox | Python | أتمتة الأنظمة  
 
@@ -38,8 +38,7 @@
 ---
 
 ## 📫 تواصل معي
-- 🌐 الموقع الشخصي: [[apmiandrs.com](https://apmiandrs.com)](https://abdullah.apmiandrs.com/)  
+- 🌐 الموقع الشخصي:(https://abdullah.apmiandrs.com/)  
 - 📧 البريد الإلكتروني: apmiandrs.gmail.com  
-- 🐦 تويتر / لينكدإن / GitHub (اختياري حسب الحسابات)  
 
 ---
