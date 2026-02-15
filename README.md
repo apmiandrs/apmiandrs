@@ -33,12 +33,11 @@
 -  
 -
 
-> يمكن إضافة أي مشروع جديد بسهولة، وأفضل المشاريع تثبت في Pinned Repositories.
 
 ---
 
 ## 📫 تواصل معي
 - 🌐 الموقع الشخصي:(https://abdullah.apmiandrs.com/)  
-- 📧 البريد الإلكتروني: apmiandrs.gmail.com  
+- 📧 البريد الإلكتروني: apmiandrs@gmail.com  
 
 ---
